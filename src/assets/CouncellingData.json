@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title" : "Individual Yoga Councelling",
+        "primaryImg" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOCrmy9_geFQsHeGvP8UCz8IEe0dEmOpBHX0CK5wSlOMYPMKVwQvS7LLem-ou",
+        "secondaryImgs" : ["https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR7dgzsGwFbpBp1LB171dsSKlHJjaGKUQKovwTfmKutATBTOSJuVF4wmVttlxI", "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrFmBMomWU5V-ukRKZ1x1u7ynfrQdH9qcoZpvoN6xY5YeeTWfrklrSdG8kzCep", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXA6aLoJ9iiluADAB-uSAVv6Ijs1LxPCz7AOcaeFW5dcYzJ1s6DKthoP8Qk_y"],
+        "bodyText" : "Individual Yoga Counselling offers a deeply personalized therapeutic approach, moving beyond standard group classes to address your unique physical, mental, and emotional needs, whether you are managing a specific injury, dealing with chronic stress and anxiety, or seeking to refine and advance your personal practice with expert guidance and a customized, sustainable home routine.",
+        "price" : "$50"
+    },
+    {
+        "id" : 2,
+        "title" : "Group Yoga Therapy",
+        "primaryImg" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOCrmy9_geFQsHeGvP8UCz8IEe0dEmOpBHX0CK5wSlOMYPMKVwQvS7LLem-ou",
+        "secondaryImgs" : ["https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR7dgzsGwFbpBp1LB171dsSKlHJjaGKUQKovwTfmKutATBTOSJuVF4wmVttlxI", "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrFmBMomWU5V-ukRKZ1x1u7ynfrQdH9qcoZpvoN6xY5YeeTWfrklrSdG8kzCep", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXA6aLoJ9iiluADAB-uSAVv6Ijs1LxPCz7AOcaeFW5dcYzJ1s6DKthoP8Qk_y"],
+        "bodyText" : "Group yoga classes provide an energetic and supportive community environment where you can connect with others, receive instruction on alignment and breathing, and participate in set sequences designed to promote general fitness, flexibility, and stress reduction in a fun, shared space.",
+        "price" : "$40"
+    },
+    {
+        "id" : 3,
+        "title" : "Online Yoga Consultation",
+        "primaryImg" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAOCrmy9_geFQsHeGvP8UCz8IEe0dEmOpBHX0CK5wSlOMYPMKVwQvS7LLem-ou",
+        "secondaryImgs" : ["https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQR7dgzsGwFbpBp1LB171dsSKlHJjaGKUQKovwTfmKutATBTOSJuVF4wmVttlxI", "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrFmBMomWU5V-ukRKZ1x1u7ynfrQdH9qcoZpvoN6xY5YeeTWfrklrSdG8kzCep", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYXA6aLoJ9iiluADAB-uSAVv6Ijs1LxPCz7AOcaeFW5dcYzJ1s6DKthoP8Qk_y"],
+        "bodyText" : "Group yoga classes provide an energetic and supportive community environment where you can connect with others, receive instruction on alignment and breathing, and participate in set sequences designed to promote general fitness, flexibility, and stress reduction in a fun, shared space.",
+        "price" : "$30"
+    }
+]

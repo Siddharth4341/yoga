@@ -1,13 +1,49 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("../node_modules/bootstrap");
+#home header {
+  background-image: url("https://as2.ftcdn.net/v2/jpg/06/19/19/07/1000_F_619190776_5lkcjr321TRu6xulVGqgXzjSuVocrdNv.jpg");
+  padding: 180px;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 10px;
+  margin: 20px 10px;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+#contact {
+  background-color: #B0CE88;
+}
+#about header {
+  background-image: url("https://img.freepik.com/premium-photo/woman-practicing-meditation-blurred-background-with-front-view-scented-candle-generative-ai_87561-13193.jpg");
+  padding: 100px;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 10px;
+  margin: 20px 10px;
+}
+#about img {
+  height: 500px;
+  width: 100%;
+  object-fit: cover;
+}
+#register {
+  background-image: url("https://freedesignfile.com/upload/2018/03/Yoga-silhouette-with-sunset-background-vector-08.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 100px;
+}
+#register input::placeholder {
+  color: white;
+}
+#register input::-webkit-input-placeholder {
+  color: white;
+}
+#cdt img {
+  width: 100%;
+}
+#CouncelBook {
+  background-image: url("https://th.bing.com/th/id/OIP.KaCDZgwRPc3oE3pgId0_6AHaEK?w=293&h=180&c=7&r=0&o=7&cb=ucfimg2&pid=1.7&rm=3&ucfimg=1");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
